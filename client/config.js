@@ -1,0 +1,1 @@
+export const ArtManagementContractAddress="0x04FAE71215cE6D825542b9A847218CC5008d2aaa"
